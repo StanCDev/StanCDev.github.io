@@ -14,12 +14,12 @@ timezone: Europe/Zurich
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Stanislas Castellana  # the main title
 
-tagline: Stanislas Castellana # it will display as the sub-title
+tagline: My blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My Blog
+  Technical blog
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
